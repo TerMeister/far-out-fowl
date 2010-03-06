@@ -1,0 +1,9 @@
+{
+  "id": "com.etherient.faroutfowl",
+  "version": "1.0.0",
+  "vendor": "Etherient",
+  "type": "web",
+  "main": "index.html",
+  "title": "Far Out Fowl",
+  "icon": "icon.png"
+}

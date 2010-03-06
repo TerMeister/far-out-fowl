@@ -1,0 +1,13 @@
+/* Make background of scenes black by default. */
+body.palm-default {
+  background-color : #000000;
+}
+
+
+/* Style class for the main game canvas. */
+.cssMainCanvas {
+  display : none;
+  position : absolute;
+  left : 0px;
+  top : 0px;
+}
