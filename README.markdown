@@ -1,9 +1,13 @@
 Far Out Fowl - a webOS game by Frank W. Zammetti
 ================================================
 
-Why did the giant space chicken cross the GALAXY?  Wo cares, welcome to Far Out Fowl!
+Why did the giant space chicken cross the GALAXY?  Who cares! Welcome to Far Out Fowl!
 -------------------
 
+Far Out Fowl is a Canvas gaming tutorial designed to introduce you to the wonderful world of game development. This is the source code for the accompanying article "Far Out Fowl: An Exercise in webOS Canvas Game Development," which can be found at http://developer.sbqa.palm.com/index.php?option=com_content&view=article&id=1987.
+
+Game Summary
+-------------------
 The cosmic destroyer, a fowl beast (get it?!?) has launched an all-out attack on the Earth.  It's up to you, chicken farmer Joe, to defeat this menace from beyond the stars!
 
 Catch the poison eggs the chicken drops before they splatter and release their toxins upon the world.
